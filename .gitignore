@@ -45,3 +45,6 @@ mapping.txt
 seeds.txt
 unused.txt
 dump.txt
+app/build/
+app/libs/
+app/src/main/res/drawable/
